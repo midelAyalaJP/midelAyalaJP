@@ -4,8 +4,8 @@
 
 <div align="center">
   <div>
-      <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=solarized-light&fontFamily=Gudea&preferLogin=true&Points.Issues=0&Background=FBF1C7&Text=B57614&Title=AF3902&Ring=AF3902">    <img  alt="midelAyalaJP's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/midelAyalaJP?cardType=github&theme=solarized-light&fontFamily=Gudea&preferLogin=true&Points.Issues=0&Background=FBF1C7&Text=B57614&Title=AF3902&Ring=AF3902" />  </a>
-   <img height="200em" src="https://nirzak-streak-stats.vercel.app/?user=midelAyalaJP&theme=gruvbox_light&hide_border=true&include_all_commits=true&count_private=true"/>
+      <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=solarized-light&fontFamily=Gudea&preferLogin=true&Points.Issues=0&Background=FBF1C7&Text=B57614&Title=AF3902&Ring=AF3902">    <img height="210em" width="36%" alt="midelAyalaJP's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/midelAyalaJP?cardType=github&theme=solarized-light&fontFamily=Gudea&preferLogin=true&Points.Issues=0&Background=FBF1C7&Text=B57614&Title=AF3902&Ring=AF3902" />  </a>
+   <img width="40%" height="210em" src="https://nirzak-streak-stats.vercel.app/?user=midelAyalaJP&theme=gruvbox_light&hide_border=true&include_all_commits=true&count_private=true"/>
   </div>
 
   
