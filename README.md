@@ -1,6 +1,5 @@
-
-<div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=FBF1C7"  />
+<div align="center">  
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FBE086&text=ミゲル%20-nl-ソフトウェアエンジニア&textBg=false&fontColor=B57614&fontSize=23&fontAlign=83&fontAlignY=35&animation=twinkling&stroke=FFFFFF&strokeWidth=1"  />
 </div>
 
 <div align="center">
